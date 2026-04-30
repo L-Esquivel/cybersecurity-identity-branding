@@ -1,7 +1,5 @@
 # Professional Identity & Branding - Cybersecurity
 
-![LinkedIn Banner](./branding-assets/linkedin_banner.png)
-
 ## 👤 Professional Profile
 **IT Security Specialist | Hardening & Automation with Python**
 
