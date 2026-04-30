@@ -13,7 +13,7 @@ My background combines a **Degree in Criminology** with technical expertise in L
 This repository documents the creation of my professional visual identity:
 *   **Visual Concept**: "The Code Guardian" - focused on proactive security.
 *   **Tone**: Professional, technical, and clean.
-*   **Goal**: Attract IT Operations and Cybersecurity recruiters (e.g., Alibaba/SmartDeer).
+*   **Goal**: Attract IT Operations and Cybersecurity recruiters.
 
 ## 🛠️ Assets Generated
 *   **LinkedIn Banner**: High-definition visual for professional networking.
